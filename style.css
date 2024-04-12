@@ -25,7 +25,6 @@ h1 {
 
 .answers label {
   display: inline-block;
-  margin-right: 80px;
 }
 
 .answers input[type="radio"] {
